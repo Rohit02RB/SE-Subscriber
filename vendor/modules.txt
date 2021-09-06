@@ -1,0 +1,13 @@
+# github.com/elastic/go-elasticsearch/v7 v7.14.0
+## explicit
+github.com/elastic/go-elasticsearch/v7
+github.com/elastic/go-elasticsearch/v7/esapi
+github.com/elastic/go-elasticsearch/v7/estransport
+github.com/elastic/go-elasticsearch/v7/internal/version
+# github.com/elastic/go-elasticsearch/v8 v8.0.0-20210823151005-3b1f3aef208c
+## explicit
+# github.com/golang/snappy v0.0.1
+github.com/golang/snappy
+# github.com/nsqio/go-nsq v1.0.8
+## explicit
+github.com/nsqio/go-nsq
